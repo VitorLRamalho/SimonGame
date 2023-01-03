@@ -1,1 +1,1 @@
-SimonGame Project
+SimonGame
